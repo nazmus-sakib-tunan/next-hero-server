@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Complete project report",
+    "description": "Finalize and submit the quarterly project report",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-04-25"
+  },
+  {
+    "id": 2,
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread, and fruits",
+    "status": "completed",
+    "priority": "medium",
+    "dueDate": "2026-04-18"
+  },
+  {
+    "id": 3,
+    "title": "Workout",
+    "description": "30 minutes of cardio and strength training",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2026-04-20"
+  },
+  {
+    "id": 4,
+    "title": "Team meeting",
+    "description": "Discuss sprint progress with the team",
+    "status": "in-progress",
+    "priority": "high",
+    "dueDate": "2026-04-21"
+  },
+  {
+    "id": 5,
+    "title": "Read a book",
+    "description": "Finish reading 50 pages of a novel",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2026-04-30"
+  }
+]

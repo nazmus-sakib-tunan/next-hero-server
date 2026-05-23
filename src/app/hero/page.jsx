@@ -1,5 +1,4 @@
 import { Button, Card } from '@heroui/react';
-import React from 'react';
 
 const heroPage = () => {
   return (
